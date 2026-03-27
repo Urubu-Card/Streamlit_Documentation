@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" width="144"/>
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" width="250px"/>
 
   <h1 align="center">Documentação do StreamLit</h1>
 
