@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.datacamp.com/legacy/v1727712679/image_0dd3c66c35.png" width="144"/>
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" width="144"/>
 
   <h1 align="center">Documentação do StreamLit</h1>
 
